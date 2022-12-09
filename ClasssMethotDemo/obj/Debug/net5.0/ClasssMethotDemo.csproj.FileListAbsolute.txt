@@ -1,0 +1,16 @@
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\bin\Debug\net5.0\ClasssMethotDemo.exe
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\bin\Debug\net5.0\ClasssMethotDemo.deps.json
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\bin\Debug\net5.0\ClasssMethotDemo.runtimeconfig.json
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\bin\Debug\net5.0\ClasssMethotDemo.runtimeconfig.dev.json
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\bin\Debug\net5.0\ClasssMethotDemo.dll
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\bin\Debug\net5.0\ref\ClasssMethotDemo.dll
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\bin\Debug\net5.0\ClasssMethotDemo.pdb
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ClasssMethotDemo.csproj.AssemblyReference.cache
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ClasssMethotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ClasssMethotDemo.AssemblyInfoInputs.cache
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ClasssMethotDemo.AssemblyInfo.cs
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ClasssMethotDemo.csproj.CoreCompileInputs.cache
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ClasssMethotDemo.dll
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ref\ClasssMethotDemo.dll
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ClasssMethotDemo.pdb
+C:\Users\yazic\source\repos\ConsoleApp1\ClasssMethotDemo\obj\Debug\net5.0\ClasssMethotDemo.genruntimeconfig.cache
