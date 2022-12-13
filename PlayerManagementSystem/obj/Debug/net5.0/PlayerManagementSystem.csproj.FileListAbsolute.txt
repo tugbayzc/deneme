@@ -1,0 +1,16 @@
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\bin\Debug\net5.0\PlayerManagementSystem.exe
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\bin\Debug\net5.0\PlayerManagementSystem.deps.json
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\bin\Debug\net5.0\PlayerManagementSystem.runtimeconfig.json
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\bin\Debug\net5.0\PlayerManagementSystem.runtimeconfig.dev.json
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\bin\Debug\net5.0\PlayerManagementSystem.dll
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\bin\Debug\net5.0\ref\PlayerManagementSystem.dll
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\bin\Debug\net5.0\PlayerManagementSystem.pdb
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\PlayerManagementSystem.csproj.AssemblyReference.cache
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\PlayerManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\PlayerManagementSystem.AssemblyInfoInputs.cache
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\PlayerManagementSystem.AssemblyInfo.cs
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\PlayerManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\PlayerManagementSystem.dll
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\ref\PlayerManagementSystem.dll
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\PlayerManagementSystem.pdb
+C:\Users\yazic\source\repos\CustomerManagementSystem\PlayerManagementSystem\obj\Debug\net5.0\PlayerManagementSystem.genruntimeconfig.cache
